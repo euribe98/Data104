@@ -5,4 +5,4 @@ url:  https://euribe98.github.io/Data104
 author: E. Uribe
 plugins:
   - jekyll-seo-tag
-google_analytics: UA-177361370-1
+google_analytics: 'UA-177361370-1'
