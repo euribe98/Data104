@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Sample github pages site
 description: Welcome to Data 104 Social Media Web Analytics
-url:  https://euribe98.github.io/Data104/
+url:  https://euribe98.github.io/Data104
 author: E. Uribe
 plugins:
   - jekyll-seo-tag
